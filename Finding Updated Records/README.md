@@ -2,16 +2,15 @@
 
 ## Table of Contents
 
-- [DataSets](https://github.com/mukaruernest/StratascratchExercises/tree/master/Finding%20Updated%20Records#dataset)
-- [Questions](https://github.com/mukaruernest/StratascratchExercises/tree/master/Finding%20Updated%20Records#question)
-- [Solutions](https://github.com/mukaruernest/StratascratchExercises/tree/master/Finding%20Updated%20Records#solution)
+- [DataSets](https://github.com/mukaruernest/Python-StratascratchExercises/tree/master/Finding%20Updated%20Records#dataset)
+- [Questions](https://github.com/mukaruernest/Python-StratascratchExercises/tree/master/Finding%20Updated%20Records#question)
+- [Solutions](https://github.com/mukaruernest/Python-StratascratchExercises/tree/master/Finding%20Updated%20Records#solution)
 
 More details about this exercise can be found on [Stratascratch website](https://platform.stratascratch.com/coding-question?id=10299&python=)
 
 ## DataSet
 
 `ms_employee_salary`
-
 
 **Table 1: ms_employee_salary**
 
