@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-- [DataSets](https://github.com/mukaruernest/StratascratchExercises/tree/master/Bikes%20Last%20Used#dataset)
-- [Questions](https://github.com/mukaruernest/StratascratchExercises/tree/master/Bikes%20Last%20Used#question)
-- [Solutions](https://github.com/mukaruernest/StratascratchExercises/tree/master/Bikes%20Last%20Used#solution)
+- [DataSets](https://github.com/mukaruernest/Python-StratascratchExercises/tree/master/Bikes%20last%20used#dataset)
+- [Questions](https://github.com/mukaruernest/Python-StratascratchExercises/tree/master/Bikes%20last%20used#question)
+- [Solutions](https://github.com/mukaruernest/Python-StratascratchExercises/tree/master/Bikes%20last%20used#solution)
 
 
 More details about this exercise can be found on [Stratascratch website](https://platform.stratascratch.com/coding-question?id=10176&python=)
